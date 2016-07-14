@@ -1,0 +1,2 @@
+# flixRent
+example of mvc
